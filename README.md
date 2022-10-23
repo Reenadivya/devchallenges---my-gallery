@@ -25,7 +25,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)2
+- [Overview](#overview)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
